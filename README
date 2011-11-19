@@ -5,14 +5,12 @@ Insert a line here
 Add the 4th line and modify the 1st line.
 OK git pull first, before edit.... make it a habit
 Change again, see the terminal color????
-Let's try again: new changes here
+
+Let's try again: hello....
 Yeh... the following three lines of command work!
 git config --global color.diff auto
 git config --global color.status auto
 git config --global color.branch auto
 
-
 Here we come for more changes
 Git, good stuff
-
-New changes
