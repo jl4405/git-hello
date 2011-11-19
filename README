@@ -1,6 +1,7 @@
 Master branch here
-check out from remore server
+check out from remote server
 edit locally
+New branch test2 also add here
 
 Remote copy changes from top
 top 2
@@ -27,6 +28,6 @@ Local copy added from bottom
 another local changes
 yet another
 
-New branch test1 starts here
+New branch test2 starts here
 hello there
-this is a new branch called test1
+this is a new branch called test2
