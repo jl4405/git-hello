@@ -1,5 +1,6 @@
 Master branch here
 Master changes against test2
+
 Remote copy changes from top
 top 2
 top 3
@@ -19,6 +20,6 @@ Local copy added from bottom
 another local changes
 yet another
 
-New branch test1 starts here
+New branch test2 starts here
 hello there
-this is a new branch called test1
+this is a new branch called test2
